@@ -1,0 +1,34 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	margin: 0;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+input {
+	font-size: 18px;
+	width: 50px;
+	text-align: center;
+	padding: 10px;
+	margin: 20px;
+}
+
+#convert {
+	font-size: 18px;
+	color: #ffffff;
+	background-color: #969C9B;
+	width: 300px;
+	padding: 10px;
+	border: 1px solid #969C9B;
+	border-radius: 5px;
+}
+
+#result {
+	font-size: 60px;
+	font-weight: 600;
+	color: #ffffff;
+	padding: 150px;
+}
